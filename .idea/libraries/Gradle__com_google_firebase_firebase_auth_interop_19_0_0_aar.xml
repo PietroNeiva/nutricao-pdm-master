@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth-interop:19.0.0@aar">
+    <CLASSES>
+      <root url="file:///private/var/root/.gradle/caches/transforms-2/files-2.1/7a68fec991f681ae6141f48a60f52185/jetified-firebase-auth-interop-19.0.0/res" />
+      <root url="file:///private/var/root/.gradle/caches/transforms-2/files-2.1/1861f1c292f726f19475e4888f5bb561/jetified-firebase-auth-interop-19.0.0/res" />
+      <root url="file:///private/var/root/.gradle/caches/transforms-2/files-2.1/0a6a24ed70a7c81142bcabce72875525/jetified-firebase-auth-interop-19.0.0/res" />
+      <root url="jar:///private/var/root/.gradle/caches/transforms-2/files-2.1/0dc8f2f532dc66c02163edf47eeeeca4/jetified-firebase-auth-interop-19.0.0/jars/classes.jar!/" />
+      <root url="file:///private/var/root/.gradle/caches/transforms-2/files-2.1/0dc8f2f532dc66c02163edf47eeeeca4/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml" />
+      <root url="file:///private/var/root/.gradle/caches/transforms-2/files-2.1/0dc8f2f532dc66c02163edf47eeeeca4/jetified-firebase-auth-interop-19.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///private/var/root/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-auth-interop/19.0.0/62360008013e207bf91d5b96c09eb0b9a3067393/firebase-auth-interop-19.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
